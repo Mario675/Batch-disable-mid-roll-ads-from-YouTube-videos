@@ -4,4 +4,4 @@ Youtube-API would allow you to directly talk with youtube itself. However, it is
 
 Javascript is working with the webpage itself. The user would have to log into youtube, start it, and it would run in the backround. 
 
-
+This is currently an Idea for a project. 
